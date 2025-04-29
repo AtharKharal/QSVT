@@ -1,6 +1,6 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 
-# remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 title: "QSVT Project"
 description: "Quantum Singular Value Transformation"
 url: "https://atharkharal.github.io/QSVT"
