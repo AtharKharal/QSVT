@@ -1,1 +1,16 @@
 theme: jekyll-theme-cayman
+
+# remote_theme: mmistakes/minimal-mistakes
+title: "QSVT Project"
+description: "Quantum Singular Value Transformation"
+url: "https://atharkharal.github.io/QSVT"
+baseurl: "/QSVT"
+author:
+  name: "Athar Kharal"
+  avatar: "/assets/images/avatar.png"
+  bio: "Quantum Computing Researcher"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
